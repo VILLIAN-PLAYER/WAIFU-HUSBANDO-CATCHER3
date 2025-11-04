@@ -2,18 +2,18 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "5932230962"
-    sudo_users = "6898401947", "5778743582", "5396889141", "5852831718", "6375797149", "5932230962"
-    GROUP_ID = -1001875834087
-    TOKEN = "6304832083:AAGocG8DTnN-H6MaXPrwZJPsJodVeO9Gfks"
-    mongo_url = "mongodb+srv://tanjiro1564:tanjiro1564@cluster0.pp5yz4e.mongodb.net/?retryWrites=true&w=majority"
+    OWNER_ID = "1813373023"
+    sudo_users = "1813373023"
+    GROUP_ID = -1003208855424
+    TOKEN = "6513221042:AAEOYACtqIz52dDwg9p67XPCRMQsgH52iBo"
+    mongo_url = "mongodb+srv://indonesiatata07_db_user:<db_password>@cluster0.pgglnny.mongodb.net/?appName=Cluster0"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "VG_SUPPORT_CHAT"
-    UPDATE_CHAT = "TEAMS_VG"
-    BOT_USERNAME = "Waifu_x_robot"
-    CHARA_CHANNEL_ID = "-1001875834087"
-    api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    SUPPORT_CHAT = "infvibe"
+    UPDATE_CHAT = "waifu_private"
+    BOT_USERNAME = "ZERO_TWO_R0BOT"
+    CHARA_CHANNEL_ID = "-1002074617147"
+    api_id = 21846639
+    api_hash = "2cebc99bd8378b5237b31ea8e7496d79"
 
     
 class Production(Config):
